@@ -4,6 +4,14 @@ Referece:
 1. [We can not buy integration](https://martinfowler.com/articles/cant-buy-integration.html)
 2. [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/)
 
+## Keyword/Concepts:
+tech debt, point-to-point integration, point-in-time integration
+
+## Mindset 
+
+- mindset, from thinking of how to solve integration problems with our tools to instead thinking of how to build the right interfaces to maximize agility.
+
+
 ## Notes:
 - integration is not only connecting two sytem 
 - integration should be broder defination
@@ -33,3 +41,7 @@ Fig:It is possible to buy those box of system,however lines between them are not
 - Emphasizing the implementation languages in architecture diagrams
 - Showing the commercial integration tool in an architecture diagram puts the emphasis on implementation details instead of interfaces and treats
   integration as a tactical concern
+  
+  
+  
+  
